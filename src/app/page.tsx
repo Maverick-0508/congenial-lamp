@@ -189,7 +189,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Why CarWow Kenya */}
+      {/* Why AutoVelo */}
       <section className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
@@ -222,7 +222,7 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
-              { name: "John Kariuki", location: "Nairobi", text: "Found my Toyota Hilux through CarWow Kenya at a much better price than any dealer I visited in person. The process was smooth and the dealer was legitimate.", car: "Toyota Hilux 2024" },
+              { name: "John Kariuki", location: "Nairobi", text: "Found my Toyota Hilux through AutoVelo at a much better price than any dealer I visited in person. The process was smooth and the dealer was legitimate.", car: "Toyota Hilux 2024" },
               { name: "Mary Wambui", location: "Mombasa", text: "Sold my old Subaru in just 3 days! Got offers from 6 different buyers and accepted the best one. Got more than I expected.", car: "Sold: Subaru Outback" },
               { name: "Peter Otieno", location: "Kisumu", text: "The car reviews are incredibly detailed and honest about how cars perform on Kenyan roads specifically. Finally relevant reviews!", car: "Bought: Suzuki Jimny" },
             ].map((t) => (
