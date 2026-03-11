@@ -78,7 +78,7 @@ export default function Footer() {
             <h3 className="font-semibold text-white mb-4">Company</h3>
             <ul className="space-y-2 text-sm">
               <li><Link href="/sell" className="hover:text-green-400 transition-colors">Sell Your Car</Link></li>
-              <li><a href="#" className="hover:text-green-400 transition-colors">About CarWow Kenya</a></li>
+              <li><a href="#" className="hover:text-green-400 transition-colors">About AutoVelo</a></li>
               <li><a href="#" className="hover:text-green-400 transition-colors">For Dealers</a></li>
               <li><a href="#" className="hover:text-green-400 transition-colors">Careers</a></li>
               <li><a href="#" className="hover:text-green-400 transition-colors">Press</a></li>
@@ -89,7 +89,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-500">
-            © 2024 CarWow Kenya. All rights reserved. Registered in Kenya.
+            © 2024 AutoVelo. All rights reserved. Registered in Kenya.
           </p>
           <div className="flex items-center gap-6 text-xs text-gray-500">
             <a href="#" className="hover:text-gray-300 transition-colors">Privacy Policy</a>
