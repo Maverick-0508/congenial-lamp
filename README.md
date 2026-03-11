@@ -1,4 +1,4 @@
-# CarWow Kenya 🚗
+# AutoVelo 🚗
 
 **Kenya's leading online platform for buying new cars, selling used cars, and reading expert car reviews.**
 
