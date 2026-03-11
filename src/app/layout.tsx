@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "CarWow Kenya – Buy New & Used Cars, Expert Reviews",
+  title: "AutoVelo – Buy New & Used Cars, Expert Reviews",
   description:
     "Kenya's leading car platform. Browse new and used cars, read expert reviews, compare models, and get the best deals from trusted dealers across Kenya.",
   keywords: "buy car Kenya, sell car Kenya, car reviews Kenya, Nairobi cars, Toyota Kenya, Subaru Kenya",
