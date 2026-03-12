@@ -435,7 +435,7 @@ export const cars: Car[] = [
     dealerPhone: "+254 720 234 567",
     rating: 4.7,
     reviewCount: 52,
-    description: "The last of the classic American muscle coupes, the Dodge Challenger R/T is powered by the legendary 5.7L HEMI V8. Retro styling, wide body stance and a back seat that can actually fit adults make it the ultimate everyday muscle car.",
+    description: "The last of the classic American muscle coupes, the Dodge Challenger R/T is powered by the legendary 5.7L HEMI V8. Retro styling, wide body stance and a back seat that can actually fit adults makes it the ultimate everyday muscle car.",
     features: ["HEMI V8", "Wide Body Kit", "18\" Alloys", "Heated Seats", "8.4\" Touchscreen", "Apple CarPlay", "Android Auto", "Keyless Entry"],
     mpg: 11,
     co2: 235,
